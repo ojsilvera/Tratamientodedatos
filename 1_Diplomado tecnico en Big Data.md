@@ -14,6 +14,16 @@ Realizar la búsqueda.
 Elaborar un reporte con la información obtenida.
 También aprenderás cómo trabajar por tu cuenta y los lineamientos éticos que debes seguir cuando manejas información.
 
+#### Nivel 1
+
+##### Leccion 1
+
+Navegadores
+
+##### Leccion 2
+
+##### leccion 3
+
 ## Curador de datos
 
 ## Programador (orientado a objetos)
